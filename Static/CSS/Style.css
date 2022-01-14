@@ -3,6 +3,7 @@
     padding: 0;
 }
 body{
+    height: 100vh;
     background-image: url("../IMG/Sfondo.jpg");
     background-repeat: no-repeat;
     background-size: cover;
