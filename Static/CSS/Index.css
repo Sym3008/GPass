@@ -15,8 +15,9 @@
     border-width: 2px;
     border-style: solid;
     background: rgba(255,255,255,0.5);
-    padding: 10px 3%;
-    margin: 10px 5vw;
+    /*padding: 10px 3%;*/
+    /*margin: 10px 5vw;*/
+}
+.w-90{
     width: 90vw;
-    heigth: 80vh;
 }
